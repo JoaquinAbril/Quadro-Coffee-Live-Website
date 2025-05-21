@@ -354,7 +354,7 @@ section {
 .home {
     min-height: 100vh;
     padding-top: 1rem;
-    background: url('C:\\Users\\joaqu\\Desktop\\Quadro Coffee Website 1\\img\\background.jpg') no-repeat;
+    background: url('background.jpg') no-repeat;
     background-position: center;
     background-size: cover;
 }
