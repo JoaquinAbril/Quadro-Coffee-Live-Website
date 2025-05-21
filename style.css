@@ -696,11 +696,6 @@ section {
 
 .review .reviewSlider .box {
     border: var(--border);
-    border-radius: var(--borderRadius);
-    -webkit-border-radius: var(--borderRadius);
-    -moz-border-radius: var(--borderRadius);
-    -ms-border-radius: var(--borderRadius);
-    -o-border-radius: var(--borderRadius);
     text-align: center;
     position: relative;
     z-index: 0;
